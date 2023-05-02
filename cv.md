@@ -1,7 +1,9 @@
 ## Ergashev
-#### Frontend developer
+## qvergvashevhjhg
+#### Frontend dev
 ###### Skills
-* HTML
+* HTMLcss
 * CSS
+
 * JS
 + 
